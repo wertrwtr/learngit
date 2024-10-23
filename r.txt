@@ -1,2 +1,3 @@
 [ch for ch in str if ch != '
 Once I love a gilr very much!
+我爱你，陈寅
