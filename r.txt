@@ -1,3 +1,4 @@
 [ch for ch in str if ch != '
 Once I love a gilr very much!
 我爱你，陈寅
+谭思雨，是个傻逼。
