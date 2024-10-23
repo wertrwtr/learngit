@@ -1,0 +1,1 @@
+[ch for ch in str if ch != ' ']
